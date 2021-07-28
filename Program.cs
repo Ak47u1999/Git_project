@@ -9,7 +9,6 @@ namespace Git_project
             Console.WriteLine("Hello Duniyaz!");
             Console.WriteLine("Hello Duniya!");
             Console.WriteLine("Hello Duniya2!");
-            Console.WriteLine("Hello Duniya3!");
         }
     }
 }
